@@ -1,0 +1,1 @@
+D:\DEVELOPMENT\apache-maven-3.5.2\bin\mvn clean compile assembly:single

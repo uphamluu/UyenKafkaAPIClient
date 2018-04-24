@@ -1,0 +1,1 @@
+java -cp target/UyenKafkaAPIClient-1.0-SNAPSHOT-jar-with-dependencies.jar com.uphamluu.kafka.simple.Producer TOPIC_test2
